@@ -49,6 +49,9 @@ run in the root directory:
 
 run `npm start` to start the servers
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/86488501/162501401-7aed52c9-94f7-4dba-a1ad-2ab35ba2e46b.png)
+
 
 ## 7. Bonus Features
 
